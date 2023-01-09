@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NDetective": {
+      "commandName": "Project",
+      "commandLineArgs": "--api-key EEDPT5Z3Q6AV8MCD8UU4VHNI2HK39USJP2 --explorer https://api-moonbeam.moonscan.io/api --contract-addresses 0xba1a22a2c403ac73d6a7f0a72616e48a606f443b,0xd96d570e1639ffa867238afeccc11eb775c0ade5"
+    }
+  }
+}
